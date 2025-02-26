@@ -29,6 +29,14 @@ This repository showcases my journey of continuous learning through various cert
 8️⃣ **Regression Models in Machine Learning** 🔢📉  
 9️⃣ **Applied Accelerated Artificial Intelligence** 🚀🤖  
 
-## NPTEL Certification - Applied Accelerated Artificial Intelligence
+## 📜 NPTEL Certification - Applied Accelerated Artificial Intelligence
+
+## ☁️ Google Cloud Badges  
+📌 **Google Cloud Profile**: [View All Badges](https://www.cloudskillsboost.google/public_profiles/4aba479b-0af1-4ec1-a823-5c778af4ce58)  
+
+1️⃣ **Create and Manage Cloud Resources** ☁️🖥️  
+2️⃣ **Explore Machine Learning Models with Explainable AI** 📈🤖  
+3️⃣ **Insights from Data with BigQuery** 🔢📉  
+4️⃣ **Perform Foundational Data, ML, and AI Tasks in Google Cloud** 🧠📊  
 
 📂 Click on the respective PDFs in this repository to explore my learning journey in detail!
